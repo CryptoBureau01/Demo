@@ -168,4 +168,4 @@ This Auto Script for Node Management on the Ghost has been created by CryptoBuro
 # Author
 **Created by: CryptoBureau-Master**
 
-**Join our TG : https://t.me/CryptoBuroOfficial**
+**Join our TG : https://t.me/CryptoBureau01**
